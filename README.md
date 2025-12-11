@@ -9,6 +9,14 @@ This dashboard allows users to explore review trends over time, review distribut
 
 ---
 
+## Project Documenation
+
+For more documentation access:
+* [Executive Summary](docs/executive_summary.md)
+* [Project Overview and Methodology](docs/index_methodology.md)
+
+---
+
 ## 🧠 Features
 
 - **Reviews by Aspect** – Visualize review counts grouped by product aspects.
