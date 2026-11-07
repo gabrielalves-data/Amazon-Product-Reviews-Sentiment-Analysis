@@ -7,9 +7,11 @@
 A **Streamlit dashboard** for visualizing Amazon product reviews with sentiment analysis powered by TensorFlow.  
 This dashboard allows users to explore review trends over time, review distributions by aspect, sentiment, and product categories, and see differences in review percentages.
 
+**Live app:** https://amazonreviewssentimentanalysis.streamlit.app/ (hosted on Streamlit Community Cloud; if it shows a sleep notice, click the wake-up button and give it a moment).
+
 ---
 
-## Project Documenation
+## Project Documentation
 
 For more documentation access:
 * [Executive Summary](docs/executive_summary.md)
@@ -32,7 +34,7 @@ For more documentation access:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/gabriel-data/Amazon-Product-Reviews-Sentiment-Analysis.git
+git clone https://github.com/gabrielalves-data/Amazon-Product-Reviews-Sentiment-Analysis.git
 cd Amazon-Product-Reviews-Sentiment-Analysis
 ```
 
